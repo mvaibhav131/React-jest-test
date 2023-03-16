@@ -1,12 +1,24 @@
 {
-  "name": "react-jest-test",
+  "name": "js-password-validator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple password validator made with Javascript 💛",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laisfrigerio/js-password-validator.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laisfrigerio/js-password-validator/issues"
+  },
+  "homepage": "https://github.com/laisfrigerio/js-password-validator#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
 }
