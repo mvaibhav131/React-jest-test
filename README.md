@@ -1,5 +1,7 @@
-react-jest-test
-Simple password validator made with Javascript 
+# react-jest-test
+## Simple password validator made with Javascript 
+
+### clone the above repo install dependancy and run command ==> ```npm run test```  then you see the all test cases results
 
 Branch history
 base-code: a complex logic to password validator. In next branches, we'll add tests and refactor the code
